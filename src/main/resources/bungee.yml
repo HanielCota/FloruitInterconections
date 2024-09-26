@@ -1,0 +1,4 @@
+name: FloruitInterconections
+version: '1.0-SNAPSHOT'
+main: com.floruit.floruitInterconections.FloruitInterconectionsPlugin
+author: HanielFialho
